@@ -128,7 +128,8 @@ urlpatterns = [
 ![OUTPUT](./out.png)
 
 ### Home Page:
-![Home Page](./home.png)
+![WhatsApp Image 2023-01-29 at 19 39 35](https://user-images.githubusercontent.com/119393563/215332156-38f1a21a-ffc5-4a86-8bed-494b2e6df63a.jpg)
+
 
 ## Result
 The Program for implementing  server side processing is completed successfully.
